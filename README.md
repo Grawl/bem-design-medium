@@ -27,12 +27,12 @@
 Привел все к hsla, чтоб были наглядно видно основные цвета.
 Разбил цвета(оттенки) на группы, по основным цветам.
 Вытащил в переменные основные цвета:
-$project = #fc0
-$base = #000
-$normal = #f6f5f3
-$active = #070
-$link = #44b
-$alert = #e00
+* $project = #fc0
+* $base = #000
+* $normal = #f6f5f3
+* $active = #070
+* $link = #44b
+* $alert = #e00
 Задал hue, saturation, lightness, opacity через Stylus.
 Создал файлик design/colors.styl и импортировал его в стили компонентов
 Процесс оптимизации — codepen.io/koloskof/full/gaNGgB
