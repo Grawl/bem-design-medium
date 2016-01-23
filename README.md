@@ -33,10 +33,13 @@
 * $active = #070
 * $link = #44b
 * $alert = #e00
+
 Задал hue, saturation, lightness, opacity через Stylus.
 Создал файлик design/colors.styl и импортировал его в стили компонентов
-Процесс оптимизации — codepen.io/koloskof/full/gaNGgB
-Что получилось — github.com/bemdesign/bemdesign-components/tree/cosmetic
+
+Процесс оптимизации — codepen.io/koloskof/full/gaNGgB
+
+Что получилось — github.com/bemdesign/bemdesign-components/tree/cosmetic
 Это было хорошее начало, но хотелось более гибкой настройки.
 
 ## Шаг 3
